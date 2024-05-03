@@ -1,0 +1,163 @@
+[2024-03-11 18:39:58.896] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:05.304] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:06.963] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:07.740] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:27.223] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:27.875] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:28.223] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:28.387] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:28.581] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:28.763] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:28.949] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:29.143] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:29.478] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:29.664] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:29.829] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:30.013] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:30.205] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:30.399] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:30.749] [logger] [error] Failed to connect to server
+[2024-04-16 13:30:51.600] [logger] [error] Failed to connect to server
+[2024-04-17 14:39:20.216] [logger] [error] Failed to connect to server
+[2024-04-17 14:39:45.400] [logger] [error] Failed to connect to server
+[2024-04-17 14:41:38.328] [logger] [error] Failed to connect to server
+[2024-04-17 14:41:48.184] [logger] [error] Failed to connect to server
+[2024-04-17 14:41:51.256] [logger] [error] Failed to connect to server
+[2024-04-17 14:41:54.328] [logger] [error] Failed to connect to server
+[2024-04-17 14:43:00.408] [logger] [error] Failed to connect to server
+[2024-04-17 14:49:26.936] [logger] [error] Failed to connect to server
+[2024-04-17 14:49:35.544] [logger] [error] Failed to connect to server
+[2024-04-17 14:49:50.264] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:28.440] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:31.512] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:34.584] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:37.656] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:40.728] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:43.800] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:46.872] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:49.944] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:53.016] [logger] [error] Failed to connect to server
+[2024-04-17 14:54:56.088] [logger] [error] Failed to connect to server
+[2024-04-17 14:57:35.800] [logger] [error] Failed to connect to server
+[2024-04-17 14:57:48.920] [logger] [error] Failed to connect to server
+[2024-04-17 15:18:33.304] [logger] [error] Failed to connect to server
+[2024-04-17 15:19:06.680] [logger] [error] Failed to connect to server
+[2024-04-17 15:33:45.656] [logger] [error] Failed to connect to server
+[2024-04-17 15:34:00.024] [logger] [error] Failed to connect to server
+[2024-04-25 18:01:34.278] [logger] [error] Failed to connect to server
+[2024-04-25 18:14:17.714] [logger] [error] Failed to connect to server
+[2024-04-25 18:14:32.664] [logger] [error] Failed to connect to server
+[2024-04-25 18:14:43.209] [logger] [error] Failed to connect to server
+[2024-04-26 10:39:34.383] [logger] [error] Failed to connect to server
+[2024-04-28 14:24:54.868] [logger] [error] Failed to find password field in JSON
+[2024-04-28 14:28:54.516] [logger] [error] Failed to open data.json file
+[2024-04-28 14:29:05.963] [logger] [error] Failed to open data.json file
+[2024-04-28 14:29:32.839] [logger] [error] Failed to open data.json file
+[2024-04-28 14:29:32.840] [logger] [error] Error opening data.json file
+[2024-04-28 14:30:11.852] [logger] [error] Failed to open data.json file
+[2024-04-28 14:30:11.853] [logger] [error] Error opening data.json file
+[2024-04-30 17:38:29.068] [logger] [error] Failed to parse data.json
+[2024-04-30 17:38:41.163] [logger] [error] Failed to connect to server
+[2024-05-02 13:43:09.382] [DET_logger] [info] Awaiting connections on port 1024 and 12345
+[2024-05-02 13:43:21.055] [DET_logger] [info] Buffer: cmd1
+
+[2024-05-02 13:43:21.055] [DET_logger] [info] bytesRead: 4
+[2024-05-02 13:43:23.055] [DET_logger] [info] Received JSON data:
+[2024-05-02 13:43:23.055] [DET_logger] [info] {
+  "account_information":{
+    "username":"admin",
+    "password":"123"
+  },
+  "settings":{
+    "ip-address":"192.168.1.14",
+    "logging-level":"info",
+    "wireless-mode":"access-point",
+    "wireless-SSID":"voyance",
+    "wireless-Pass-Phrase":"123456789"
+  },
+  "firmware":{
+    "filename":"baitest1.cpp",
+    "path":"uploads\/baitest1.cpp"
+  }
+}
+[2024-05-02 13:43:23.056] [DET_logger] [info] Saved JSON data to data.json
+[2024-05-02 13:43:23.056] [DET_logger] [info] ip-address: 192.168.1.14
+[2024-05-02 13:43:23.056] [DET_logger] [info] logging-method: 
+[2024-05-02 13:43:23.056] [DET_logger] [info] logging-level: info
+[2024-05-02 13:43:23.056] [DET_logger] [info] wireless-mode: access-point
+[2024-05-02 13:43:23.056] [DET_logger] [info] wireless-SSID: voyance
+[2024-05-02 13:43:23.056] [DET_logger] [info] wireless-Pass-Phrase: 123456789
+[2024-05-02 13:43:23.056] [DET_logger] [info] wl mode: access-point
+[2024-05-02 13:43:25.771] [DET_logger] [info] Switched to Access Point Mode.
+[2024-05-02 13:43:59.061] [DET_logger] [info] Buffer: cmd1
+
+[2024-05-02 13:43:59.061] [DET_logger] [info] bytesRead: 4
+[2024-05-02 13:44:01.061] [DET_logger] [info] Received JSON data:
+[2024-05-02 13:44:01.061] [DET_logger] [info] {
+  "account_information":{
+    "username":"admin",
+    "password":"123"
+  },
+  "settings":{
+    "ip-address":"192.168.1.14",
+    "logging-level":"info",
+    "wireless-mode":"station",
+    "wireless-SSID":"Phong 401",
+    "wireless-Pass-Phrase":"12345687"
+  },
+  "firmware":{
+    "filename":"baitest1.cpp",
+    "path":"uploads\/baitest1.cpp"
+  }
+}
+[2024-05-02 13:44:01.061] [DET_logger] [info] Saved JSON data to data.json
+[2024-05-02 13:44:01.062] [DET_logger] [info] ip-address: 192.168.1.14
+[2024-05-02 13:44:01.062] [DET_logger] [info] logging-method: 
+[2024-05-02 13:44:01.062] [DET_logger] [info] logging-level: info
+[2024-05-02 13:44:01.062] [DET_logger] [info] wireless-mode: station
+[2024-05-02 13:44:01.062] [DET_logger] [info] wireless-SSID: Phong 401
+[2024-05-02 13:44:01.062] [DET_logger] [info] wireless-Pass-Phrase: 12345687
+[2024-05-02 13:44:01.062] [DET_logger] [info] wl mode: station
+[2024-05-02 13:44:02.784] [DET_logger] [info] Switched to Station Mode.
+[2024-05-02 13:44:06.837] [DET_logger] [info] SSID: Phong 401
+BSSID: BC:F4:D4:0C:6A:61
+RSSI: 87/100
+Frequency: 5765 MHz
+Band: 2 GHz
+Security: WPA-PSK
+
+
+[2024-05-02 13:44:33.965] [DET_logger] [info] Buffer: cmd1
+
+[2024-05-02 13:44:33.965] [DET_logger] [info] bytesRead: 4
+[2024-05-02 13:44:35.965] [DET_logger] [info] Received JSON data:
+[2024-05-02 13:44:35.965] [DET_logger] [info] {
+  "account_information":{
+    "username":"admin",
+    "password":"123"
+  },
+  "settings":{
+    "ip-address":"192.168.1.14",
+    "logging-level":"info",
+    "wireless-mode":"access-point",
+    "wireless-SSID":"voyance",
+    "wireless-Pass-Phrase":"123456789"
+  },
+  "firmware":{
+    "filename":"baitest1.cpp",
+    "path":"uploads\/baitest1.cpp"
+  }
+}
+[2024-05-02 13:44:35.965] [DET_logger] [info] Saved JSON data to data.json
+[2024-05-02 13:44:35.965] [DET_logger] [info] ip-address: 192.168.1.14
+[2024-05-02 13:44:35.966] [DET_logger] [info] logging-method: 
+[2024-05-02 13:44:35.966] [DET_logger] [info] logging-level: info
+[2024-05-02 13:44:35.966] [DET_logger] [info] wireless-mode: access-point
+[2024-05-02 13:44:35.966] [DET_logger] [info] wireless-SSID: voyance
+[2024-05-02 13:44:35.966] [DET_logger] [info] wireless-Pass-Phrase: 123456789
+[2024-05-02 13:44:35.966] [DET_logger] [info] wl mode: access-point
+[2024-05-02 13:44:38.668] [DET_logger] [info] Switched to Access Point Mode.
+[2024-05-02 13:46:08.316] [DET_logger] [info] Buffer: cmd1
+
+[2024-05-02 13:46:08.316] [DET_logger] [info] bytesRead: 4
+[2024-05-02 13:46:10.316] [DET_logger] [info] Received JSON data:
